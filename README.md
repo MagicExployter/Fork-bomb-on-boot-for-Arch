@@ -1,7 +1,7 @@
 # Fork-bomb-on-boot-for-Arch
 
 ## THIS IS A W.I.P
-It might have some problems or not work. I dont wanna test it because I just swapped distros and don't have Virtual machine manager so yk don't wanna set anything up again
+It might have some problems or not work. I dont wanna test it because I just swapped distros and don't have Virtual machine manager so yk don't wanna re-install Arch
 
 ## Running it
 
