@@ -17,7 +17,7 @@ Then to install it as a boot service:
 sudo bash on-boot.sh --install
 ```
 
-Note that `sudo` is required since the script interacts with systemd. Once installed, it will run automatically every time your system starts up.
+I'm lazy so `sudo` is required since the script interacts with systemd. Once installed, it will run automatically every time your system starts up, so probably dont run it on your PC
 
 
 Please do not run this in anything besides a Virtual machine or someone you hates computer
