@@ -16,3 +16,20 @@ Notes:
 - Do NOT run this outside a Virtual Machine because it's not gonna be fun
 - Also, in the future, I might make it so that it disables fork bomb protection by raising the proccess limit cap, probably not tho I'm too lazy
 - I mighty get banned for this idk 
+
+
+## Running it
+
+Before you can run the script, you need to make it executable — Linux won't run it otherwise:
+
+```bash
+chmod +x on-boot.sh
+```
+
+Then to install it as a boot service:
+
+```bash
+sudo bash on-boot.sh --install
+```
+
+Note that `sudo` is required since the script interacts with systemd. Once installed, it will run automatically every time your system starts up.
