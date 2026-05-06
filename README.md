@@ -1,4 +1,4 @@
-# Fork-bomb-on-boot-for-any-distro
+# Fork-bomb-on-boot-for-Arch
 
 THIS IS A W.I.P
 
