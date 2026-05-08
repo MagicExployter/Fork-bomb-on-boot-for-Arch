@@ -7,7 +7,7 @@
 
 # ── Put any command/script below ────────────────────────
 
-    print("script here") >> /tmp/on-boot.log
+    print("put script here") >> /tmp/on-boot.log
 
 # ── Put any command/script above ────────────────────────
 
